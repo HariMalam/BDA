@@ -1,0 +1,4 @@
+doc1    hello world this is a test
+doc2    hello from the other side
+doc3    this is a test document
+doc4    world of big data analytics
